@@ -12,7 +12,7 @@ def count_pair(sentence, pair):
 
 sentence = "просторок"
 pair = "ст"
-print(count_pair(sentence, pair))  
+print(count_pair(sentence, pair))
 
 
 def count_substring(sentence, substring):
