@@ -3,4 +3,4 @@ def count_words_966(sentence):
 
 
 sentence = "я иду домой"
-print(count_words_966(sentence)) 
+print(count_words_966(sentence))

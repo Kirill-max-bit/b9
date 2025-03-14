@@ -3,7 +3,7 @@ def count_ro(sentence):
 
 
 sentence = "просторок"
-print(count_ro(sentence))  
+print(count_ro(sentence))
 
 
 def count_pair(sentence, pair):
@@ -21,4 +21,4 @@ def count_substring(sentence, substring):
 
 sentence = "просторок"
 substring = "оро"
-print(count_substring(sentence, substring))  
+print(count_substring(sentence, substring))
